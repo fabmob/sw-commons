@@ -8,7 +8,7 @@ This is the list of the open source software developped by FabMob projects :
 ...
 
 ## Traceur FabMob
-Le [Traceur de Mobilités](https://oultim.frama.site) is a fork of e-mission(https://github.com/e-mission), is includes: Lmo
+Le [Traceur de Mobilités](https://oultim.frama.site/english-project-presentation) is a fork of [e-mission](https://github.com/e-mission), it includes 3 main repos on github:
 - documentation (published on readthedocs) : https://github.com/fabmob/e-mission-docs
 - serveur : https://github.com/fabmob/e-mission-server-fabmob
 - app mobile : https://github.com/fabmob/e-mission-client-fabmob
